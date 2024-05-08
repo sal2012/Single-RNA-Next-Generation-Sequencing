@@ -4,8 +4,8 @@ This repository is dedicated to educational materials and practical tutorials fo
 
 ## Contents
 
-- **Single-Cell RNA Sequencing.pptx**: A PowerPoint presentation that introduces the fundamentals of scRNA-seq, including detailed workflows and key applications.
-- **Tutorial_rmarkdown1.Rmd**: An R Markdown tutorial that demonstrates the analysis of scRNA-seq data using the Seurat package, from data preprocessing to visualization.
+- **Main_Presentation.pptx**: A PowerPoint presentation that introduces the fundamentals of scRNA-seq, including detailed workflows and key applications.
+- **Main_Rmarkdown.Rmd**: An R Markdown tutorial that demonstrates the analysis of scRNA-seq data using the Seurat package, from data preprocessing to visualization.
 
 ## Getting Started
 
